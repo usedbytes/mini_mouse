@@ -36,6 +36,7 @@ Pin 27, goes high when battery low
 ## BNO055
 
 INT: Pin 4
+Address: 0x29 (7-bit)
 
 ## Motors
 
